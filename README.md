@@ -1,5 +1,20 @@
 # VxFormGenerator
 
+The library contains a component that is able to generate a form based on a POCO or a ExpandoObject. Allowing these two methods, provides the developer with flexibilty in usage. 
 
-Read me is WIP. For now take a look at my article  for instructions. 
-https://medium.com/@aaltuj/simple-to-use-dynamic-form-generator-powered-by-blazor-c38a068576e7
+
+
+### Model based
+
+You can have a model that renders inputs for the properties. The inputs can be validated by the attached DataAnotations on the property.
+
+
+
+
+
+
+
+### Dynamic based
+
+
+
