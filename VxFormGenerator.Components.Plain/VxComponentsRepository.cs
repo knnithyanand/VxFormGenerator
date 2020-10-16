@@ -6,7 +6,7 @@ using VxFormGenerator.Core;
 using VxFormGenerator.Models;
 using VxFormGenerator.Core.Repository;
 
-namespace VxFormGenerator.Repository.Bootstrap
+namespace VxFormGenerator.Repository.Plain
 {
     public class VxComponentsRepository : FormGeneratorComponentModelBasedRepository
     {
