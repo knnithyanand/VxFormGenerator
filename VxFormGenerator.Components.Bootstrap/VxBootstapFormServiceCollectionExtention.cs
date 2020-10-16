@@ -1,6 +1,4 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using VxFormGenerator.Core;
-using VxFormGenerator.Core.Repository;
 using VxFormGenerator.Repository.Bootstrap;
 
 namespace VxFormGenerator.Settings.Bootstrap
